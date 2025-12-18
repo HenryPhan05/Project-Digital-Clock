@@ -6,3 +6,4 @@ My First Project using basic HTML, CSS, JAVASCRIPT
                                           -POSSIBLE FUNCTION: + 2 options: (12H or 24H)
                                                               + convert backgrounds by time(convert images each 30 minutes)
                                                               + Users can add some stickers, or emotes..
+-Here my last link of this project: https://henryphan05.github.io/Project-Digital-Clock
